@@ -1,0 +1,36 @@
+h1 {
+    color: purple;
+}
+
+.blue-font {
+    color: blue;
+    color: darkblue;
+}
+.red-font {
+    color: red;
+    color: darkred;
+}
+#rank1 {
+    color: black
+}
+#rank2 {
+    color: rgb(36, 36, 36)
+}
+#rank3 {
+    color: rgb(53, 53, 53)
+}
+#rank4 {
+    color: rgb(75, 75, 75)
+}
+#rank5 {
+    color: rgb(114, 114, 114)
+}
+
+ul {
+    color: purple;
+}
+
+div {
+    border: 2px solid black;
+    width: 20%;
+}

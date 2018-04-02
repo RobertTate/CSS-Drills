@@ -1,0 +1,63 @@
+* {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+body {
+    background-color: #fffc7f
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #920499
+}
+
+.boxes {
+    display: block;
+    width: 20%;
+    margin: 1rem;
+    padding: 2em;
+    border: 1px solid #000;
+    border-radius: 10px;
+    position: relative;
+}
+
+#box1 {
+    background-color: #80ce89;
+}
+
+#box2 {
+    background-color: #26b1db;
+}
+
+#box3 {
+    background-color: #e04f69;
+}
+
+#box4 {
+    background-color: #e9824a;
+}
+
+a:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: rgb(16, 156, 180); /* #109CEE */
+}
+
+span {
+    color: rgb(128, 0, 0);
+    font-weight: bold;
+}
+
+.img-box {
+    width: 2em;
+    height: 2em;
+    background-color: floralwhite;
+    display: inline;
+    position: absolute;
+    top: 3.4em;
+    left: .2em;
+}
